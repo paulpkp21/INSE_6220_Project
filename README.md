@@ -1,1 +1,1 @@
-# INSE_6220_Project
+# INSE_6220 Project
